@@ -10,7 +10,8 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 - ![image of login wireframe](https://share.balsamiq.com/c/ZBrK4oxLHm8whj97mZyCv.png)
--
+- ![image of register wireframe](https://share.balsamiq.com/c/hrUXtPdtycH5rqBPDkmsTL.png)
+- ![image of forgot password wireframe](https://share.balsamiq.com/c/hrUXtPdtycH5rqBPDkmsTL.png)
 
 ### Project Tracker
 
